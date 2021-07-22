@@ -1,3 +1,6 @@
+##Team Nothing_To_Lose
+
+
 # 주제  
 covid19로 인해 변화된 대학 생활을 개선할 수 있는 어플
 
@@ -81,6 +84,6 @@ register버튼을 눌러 쉽게 수업신청 할 수 있다.
 
 
 # 영상링크
-https://youtu.be/lRx4QVqEhGE
-※실제로 사용하는 휴대폰으로 촬영한 영상이라
+https://youtu.be/lRx4QVqEhGE  
+※실제로 사용하는 휴대폰으로 촬영한 영상이라  
 자동완성과 같은 기능들에대하여 양해 부탁드립니다.
